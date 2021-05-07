@@ -11,7 +11,7 @@
 
 Vos **clés privées** sont stockées de manière cryptée sur votre appareil et ne le quittent jamais. Cela signifie que vos clés sont sécurisées. La meilleure façon de sauvegarder votre portefeuille est d'écrire manuellement votre clé privée sur un morceau de papier. Ainsi, **aucun service en ligne ne peut alors capturer les informations de votre portefeuille**. 
 
-L'équipe d'Unstoppable n'a AUCUN relevé de vos clés privées.
+L'équipe d'CoinHub n'a AUCUN relevé de vos clés privées.
 
 ### Comment sauvegarder ?
 
@@ -34,5 +34,5 @@ C'est votre clé ; elle peut comporter 12 ou 24 mots. Si vous avez besoin d'une 
 ### Sauvegarde perdue ?
 
 - Veuillez vous assurer que vous conservez votre ou vos sauvegardes dans un endroit sûr.
-- Chez Unstoppable, nous n'avons **AUCUN accès** à votre portefeuille ou à vos clés privées.
+- Chez CoinHub, nous n'avons **AUCUN accès** à votre portefeuille ou à vos clés privées.
 - **Sans sauvegarde, vos fonds sont perdus. Nous ne pourrons pas vous aider.**

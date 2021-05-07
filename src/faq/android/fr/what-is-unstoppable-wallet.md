@@ -1,4 +1,4 @@
-# Qu'est-ce que le portefeuille Unstoppable ?
+# Qu'est-ce que le portefeuille CoinHub ?
 
 - Un portefeuille **non-privatif de liberté**, vous détenez les clés de votre portefeuille pour cryptomonnaie.
 - Un portefeuille **décentralisé**. Pas de comptes, pas d'e-mails, pas de chèques (KYC, AML)

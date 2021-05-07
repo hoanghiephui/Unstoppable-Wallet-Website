@@ -1,6 +1,6 @@
 # Wie erstellt man ein Multi-Coin-Wallet?
 
-1. Starten Sie Unstoppable Wallet (Beim ersten Start der Wallet-App wird Ihnen der untenstehende Bildschirm angezeigt, in welchem Sie ein „Wallet Erstellen“ oder ein bereits vorhandenes Wallet „Wallet Wiederherstellen“ können. Für diesen Leitfaden wählen wir „Wallet Erstellen“).
+1. Starten Sie CoinHub Wallet (Beim ersten Start der Wallet-App wird Ihnen der untenstehende Bildschirm angezeigt, in welchem Sie ein „Wallet Erstellen“ oder ein bereits vorhandenes Wallet „Wallet Wiederherstellen“ können. Für diesen Leitfaden wählen wir „Wallet Erstellen“).
 
 ![](../images/android-create-welcome-l.png)
 

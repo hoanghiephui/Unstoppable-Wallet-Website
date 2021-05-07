@@ -1,12 +1,12 @@
-# Y a-t-il des frais pour envoyer ou recevoir avec Unstoppable ?
+# Y a-t-il des frais pour envoyer ou recevoir avec CoinHub ?
 
-Presque toutes les transactions blockchain entraînent des frais de réseau ou de mineur (à quelques exceptions près). Outre les frais de réseau, Unstoppable ne facture pas de frais pour l'envoi ou la réception.
+Presque toutes les transactions blockchain entraînent des frais de réseau ou de mineur (à quelques exceptions près). Outre les frais de réseau, CoinHub ne facture pas de frais pour l'envoi ou la réception.
 
 ### En quoi consistent les frais de transaction ?
 
-L'utilisation de n'importe quel réseau blockchain (Bitcoin, Ethereum, etc.) requiert des frais minimes pour envoyer une transaction. C'est parce qu'il y a des personnes (appelées mineurs) qui dépensent constamment des ressources comme la puissance de calcul et l'électricité pour aider à traiter et à sécuriser toutes les transactions sur le réseau. Les frais de transaction leur reviennent. Ces frais ne vont pas à Unstoppable, ils sont payés en totalité au réseau (mineurs) pour garantir que les transactions sont livrées de manière fiable et rapide.
+L'utilisation de n'importe quel réseau blockchain (Bitcoin, Ethereum, etc.) requiert des frais minimes pour envoyer une transaction. C'est parce qu'il y a des personnes (appelées mineurs) qui dépensent constamment des ressources comme la puissance de calcul et l'électricité pour aider à traiter et à sécuriser toutes les transactions sur le réseau. Les frais de transaction leur reviennent. Ces frais ne vont pas à CoinHub, ils sont payés en totalité au réseau (mineurs) pour garantir que les transactions sont livrées de manière fiable et rapide.
 
-Les réseaux populaires sont encombrés et donc plus chers. À ce jour, Bitcoin est le réseau le plus populaire et affiche les tarifs les plus élevés de tous les actifs numériques pris en charge par Unstoppable Wallet.
+Les réseaux populaires sont encombrés et donc plus chers. À ce jour, Bitcoin est le réseau le plus populaire et affiche les tarifs les plus élevés de tous les actifs numériques pris en charge par CoinHub Wallet.
 
 Les réseaux blockchain ont recours aux frais pour qu'il soit difficile pour un utilisateur d'inonder le réseau de transactions indésirables, ce qui obligerait les autres à attendre. Si l'envoi de transactions était gratuit, un seul mauvais élément pourrait nuire à la vitesse et à la fiabilité du réseau pour tout le monde en envoyant des spams sur le réseau avec un grand nombre de petites transactions. À cet égard, les frais sont l'une des nombreuses attractions créées par le protocole Bitcoin (et la plupart des autres blockchains) pour le rendre plus sûr.
 

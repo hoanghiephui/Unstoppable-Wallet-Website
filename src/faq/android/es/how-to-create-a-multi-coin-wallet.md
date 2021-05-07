@@ -1,6 +1,6 @@
 # ¿Cómo crear un monedero multimoneda?
 
-1. Iniciar la Unstoppable Wallet (Con el primer inicio de la aplicación, se presentara una pantalla cuya parte inferior es donde podrás “Crear un nuevo Monedero” o “importar” un monedero existente. Para esta guía, vamos a seleccionar “Crear un nuevo monedero”)
+1. Iniciar la CoinHub Wallet (Con el primer inicio de la aplicación, se presentara una pantalla cuya parte inferior es donde podrás “Crear un nuevo Monedero” o “importar” un monedero existente. Para esta guía, vamos a seleccionar “Crear un nuevo monedero”)
 
 ![](../images/ios-create-welcome-s.png)
 

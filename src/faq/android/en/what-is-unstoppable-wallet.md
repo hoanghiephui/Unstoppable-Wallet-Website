@@ -1,4 +1,4 @@
-# What is Unstoppable Wallet
+# What is CoinHub Wallet
 
 - A **non-custodial wallet**, you hold the keys to your cryptocurrency wallet.
 - A **decentralized** wallet. No accounts, no emails, no checks (KYC, AML)

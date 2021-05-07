@@ -11,7 +11,7 @@
 
 Your **Private Keys** are stored encrypted on your device and never leave your device. What this means is that, your keys are secured. The best way to backup your wallet is by manually writing down your Private Key on piece of paper. Thus, **no online service can then capture your wallet information.**
 
-The Unstoppable Wallet team has NO record of your Private Keys.
+The CoinHub Wallet team has NO record of your Private Keys.
 
 ### How to Backup?
 
@@ -34,5 +34,5 @@ This is your keys it might be 12 or 24 words. , write it down on paper and keep 
 **Lost Backup?**
 
 - Please make sure you store your backup(s) in a safe place.
-- We at Unstoppable Wallet, have **NO access** to your wallet or your Private Keys.
+- We at CoinHub Wallet, have **NO access** to your wallet or your Private Keys.
 - **Without a backup, your funds are lost. We cannot help you.**

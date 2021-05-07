@@ -11,7 +11,7 @@
 
 Tus **Contraseñas Privadas** están almacenadas y encriptadas en tu dispositivo y nunca abandonan tu dispositivo. Lo que esto significa es que tus contraseñas están aseguradas. La mejor manera de hacer un backup de tu monedero es escribiendo manualmente tus Contraseñas Privadas en un pedacito de papel. De esta manera, **ningún servicio online puede capturar la información de tu monedero**
 
-El equipo de Unstoppable Wallet no tiene ningún registro de tus Contraseñas Privadas
+El equipo de CoinHub Wallet no tiene ningún registro de tus Contraseñas Privadas
 
 ### ¿Cómo hacer un Backup?
 
@@ -34,5 +34,5 @@ Sus contraseñas privadas son generadas ni bien usted crea un Monedero Multimone
 **¿Perdiste tu Backup?**
 
 - Por favor asegúrate que guardaste tu(s) backup(s) en un lugar seguro.
-- Nosotros en Unstoppable Wallet **NO tenemos acceso** a tu monedero o a tus Contraseñas Privadas
+- Nosotros en CoinHub Wallet **NO tenemos acceso** a tu monedero o a tus Contraseñas Privadas
 - **Sin un backup, tus fondos están perdidos. No te podemos ayudar.**

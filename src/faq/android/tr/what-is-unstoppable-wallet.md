@@ -1,4 +1,4 @@
-# Unstoppable Wallet nedir?
+# CoinHub Wallet nedir?
 
 - **Gözetim dışı** bir cüzdan, kripto para cüzdanınızın anahtarlarını siz tutarsınız.
 - **Merkezi olmayan** bir cüzdan. Hesap yok, e-posta yok, çek yok (KYC, AML)

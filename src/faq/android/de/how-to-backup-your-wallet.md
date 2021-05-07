@@ -11,7 +11,7 @@
 
 Ihre **Private Keys** werden verschlüsselt auf Ihrem Gerät gespeichert und verlassen Ihr Gerät nie. Das bedeutet, dass Ihre Keys geschützt sind. Am besten sichern Sie Ihr Wallet, indem Sie Ihren Private Key manuell auf einem Blatt Papier notieren. So kann dann **kein Online-Dienst Ihre Wallet-Informationen erfassen.**
 
-Das Team von Unstoppable Wallet hat KEINE Aufzeichnungen über Ihre Private Keys.
+Das Team von CoinHub Wallet hat KEINE Aufzeichnungen über Ihre Private Keys.
 
 ### Wie erstellt man ein Backup?
 
@@ -34,5 +34,5 @@ Dies ist Ihr Schlüssel; es können 12 oder 24 Wörter sein. Schreiben Sie ihn a
 **Backup verloren?**
 
 - Bitte achten Sie darauf, dass Sie Ihre Backup(s) an einem sicheren Ort aufbewahren.
-- Wir von Unstoppable Wallet haben **KEINEN Zugang** zu Ihrem Wallet oder Ihren Private Keys.
+- Wir von CoinHub Wallet haben **KEINEN Zugang** zu Ihrem Wallet oder Ihren Private Keys.
 - **Ohne ein Backup sind Ihre Gelder verloren. Wir können Ihnen nicht helfen.**

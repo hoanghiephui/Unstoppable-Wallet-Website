@@ -1,12 +1,12 @@
-# Does Unstoppable have fees to send or receive?
+# Does CoinHub have fees to send or receive?
 
-Almost all blockchain transactions incur network or miner fees (with a few exceptions). Other than the fees that go to the network, Unstoppable does not charge fees for sending or receiving.
+Almost all blockchain transactions incur network or miner fees (with a few exceptions). Other than the fees that go to the network, CoinHub does not charge fees for sending or receiving.
 
 ### What are Transaction Fees?
 
-The use of any blockchain network (Bitcoin, Ethereum, etc.) requires a small fee to send a transaction. This is because there are people (called miners) who are constantly spending resources like computing power and electricity to help process and secure all transactions on the network. Transaction fees go to them. These fees do not go to Unstoppable, they are paid in full to the network (miners) to ensure transactions are delivered reliably and quickly.
+The use of any blockchain network (Bitcoin, Ethereum, etc.) requires a small fee to send a transaction. This is because there are people (called miners) who are constantly spending resources like computing power and electricity to help process and secure all transactions on the network. Transaction fees go to them. These fees do not go to CoinHub, they are paid in full to the network (miners) to ensure transactions are delivered reliably and quickly.
 
-Popular networks are crowded and thus more expensive. Today, Bitcoin is the most popular network and has the highest fees of any digital asset supported by Unstoppable Wallet.
+Popular networks are crowded and thus more expensive. Today, Bitcoin is the most popular network and has the highest fees of any digital asset supported by CoinHub Wallet.
 
 Blockchain networks use fees to make it hard for any one user to flood the network with junk transactions causing others to have to wait. If sending transactions were free, one bad actor could damage the network speed and reliability for everyone by spamming the network with a lot of tiny transactions. Fees, in this respect, are one of the many incentives created by the Bitcoin Protocol (and most other blockchains) to make it secure.
 

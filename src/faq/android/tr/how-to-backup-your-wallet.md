@@ -11,7 +11,7 @@
 
 **Özel Anahtarlarınız** cihazınızda şifrelenmiş olarak saklanır ve cihazınızdan asla ayrılmaz. Bunun anlamı, anahtarlarınızın güvende olmasıdır. Cüzdanınızı yedeklemenin en iyi yolu, Özel Anahtarınızı bir kâğıt üzerine manüel olarak yazmaktır. **Böylece, hiçbir çevrimiçi hizmet cüzdan bilgilerinizi yakalayamaz.**
 
-Unstoppable Wallet ekibinde Özel Anahtarlarınızın kaydı YOKTUR.
+CoinHub Wallet ekibinde Özel Anahtarlarınızın kaydı YOKTUR.
 
 ### Nasıl Yedeklenir?
 
@@ -34,6 +34,6 @@ Bu sizin anahtarınız; 12 veya 24 sözcük olabilir. Bir sonraki sayfada yedekl
 **Kayıp Yedekleme?**
 
 - Lütfen yedeğinizi/yedeklerinizi güvenli bir yerde sakladığınızdan emin olun.
-- Unstoppable Wallet'ta cüzdanınıza veya Özel Anahtarlarınıza **erişimimiz YOKTUR**.
+- CoinHub Wallet'ta cüzdanınıza veya Özel Anahtarlarınıza **erişimimiz YOKTUR**.
 - **Yedek olmazsa fonlarınız kaybolur ve size yardım edemeyiz.**
 

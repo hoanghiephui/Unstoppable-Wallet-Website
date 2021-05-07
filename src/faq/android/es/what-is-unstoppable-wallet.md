@@ -1,4 +1,4 @@
-# ¿Qué es Unstoppable Wallet?
+# ¿Qué es CoinHub Wallet?
 
 - Un monedero **sin custodio**, vos tenés las contraseñas de tu monedero de criptomoneda.
 - Un monedero **descentralizado**. Sin cuentas, emails, sin cheques (KYC, AML)

@@ -1,6 +1,6 @@
 # Çoklu para cüzdanı nasıl oluşturulur?
 
-1. Unstoppable Wallet’i başlatın (Uygulamanın ilk kez başlatılmasından sonra, "Yeni Cüzdan Oluşturun" veya mevcut olanı "İçe Aktarın" seçeneklerinin olduğu aşağıdaki ekranla karşılaşacaksınız. Bu kılavuz için, Yeni Cüzdan Oluştur'u seçeceğiz.)
+1. CoinHub Wallet’i başlatın (Uygulamanın ilk kez başlatılmasından sonra, "Yeni Cüzdan Oluşturun" veya mevcut olanı "İçe Aktarın" seçeneklerinin olduğu aşağıdaki ekranla karşılaşacaksınız. Bu kılavuz için, Yeni Cüzdan Oluştur'u seçeceğiz.)
 
 ![](../images/ios-create-welcome-s.png)
 

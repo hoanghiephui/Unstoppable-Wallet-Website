@@ -6,4 +6,4 @@ Here are the download links:
 
 [**Google Play**](https://play.google.com/store/apps/details?id=io.horizontalsystems.bankwallet)
 
-[**APK file**](https://github.com/horizontalsystems/unstoppable-wallet-android/releases)
+[**APK file**](https://github.com/horizontalsystems/CoinHub-wallet-android/releases)
