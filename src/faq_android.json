@@ -1,115 +1,77 @@
 [
   {
     "en": {
-      "title": "What is Unstoppable Wallet?",
+      "title": "What is CoinHub Wallet?",
       "markdown": "faq/android/en/what-is-unstoppable-wallet.md"
     },
     "ru": {
-      "title": "Что такое Unstoppable кошелек?",
+      "title": "Что такое CoinHub кошелек?",
       "markdown": "faq/android/ru/what-is-unstoppable-wallet.md"
     },
     "de": {
-      "title": "Was ist Unstoppable Wallet?",
+      "title": "Was ist CoinHub Wallet?",
       "markdown": "faq/android/de/what-is-unstoppable-wallet.md"
     },
     "es": {
-      "title": "¿Qué es Unstoppable Wallet?",
+      "title": "¿Qué es CoinHub Wallet?",
       "markdown": "faq/android/es/what-is-unstoppable-wallet.md"
     },
     "fr": {
-      "title": "Qu'est-ce que le portefeuille Unstoppable ?",
+      "title": "Qu'est-ce que le portefeuille CoinHub ?",
       "markdown": "faq/android/fr/what-is-unstoppable-wallet.md"
     },
     "tr": {
-      "title": "Unstoppable Wallet nedir?",
+      "title": "CoinHub Wallet nedir?",
       "markdown": "faq/android/tr/what-is-unstoppable-wallet.md"
     },
     "zh": {
-      "title": "What is Unstoppable Wallet?",
+      "title": "What is CoinHub Wallet?",
       "markdown": "faq/android/zh/what-is-unstoppable-wallet.md"
     },
     "ko": {
-      "title": "Unstoppable Wallet은 무엇인가요?",
+      "title": "CoinHub Wallet은 무엇인가요?",
       "markdown": "faq/android/ko/what-is-unstoppable-wallet.md"
     },
     "fa": {
-      "title": "What is Unstoppable Wallet?",
+      "title": "What is CoinHub Wallet?",
       "markdown": "faq/android/fa/what-is-unstoppable-wallet.md"
     }
   },
   {
     "en": {
-      "title": "Where to download Unstoppable Wallet?",
-      "markdown": "faq/android/en/where-to-download-unstoppable-wallet.md"
-    },
-    "ru": {
-      "title": "Где скачать Unstoppable кошелек?",
-      "markdown": "faq/android/ru/where-to-download-unstoppable-wallet.md"
-    },
-    "de": {
-      "title": "Wo kann man Unstoppable Wallet herunterladen?",
-      "markdown": "faq/android/de/where-to-download-unstoppable-wallet.md"
-    },
-    "es": {
-      "title": "¿Dónde puedes descargar Unstoppable Wallet?",
-      "markdown": "faq/android/es/where-to-download-unstoppable-wallet.md"
-    },
-    "fr": {
-      "title": "Où télécharger le portefeuille Unstoppable ?",
-      "markdown": "faq/android/fr/where-to-download-unstoppable-wallet.md"
-    },
-    "tr": {
-      "title": "Unstoppable Wallet nereden indirilir?",
-      "markdown": "faq/android/tr/where-to-download-unstoppable-wallet.md"
-    },
-    "zh": {
-      "title": "Where to download Unstoppable Wallet?",
-      "markdown": "faq/android/zh/where-to-download-unstoppable-wallet.md"
-    },
-    "ko": {
-      "title": "Unstoppable Wallet은 어디에서 다운로드할 수 있나요?",
-      "markdown": "faq/android/ko/where-to-download-unstoppable-wallet.md"
-    },
-    "fa": {
-      "title": "Where to download Unstoppable Wallet?",
-      "markdown": "faq/android/fa/where-to-download-unstoppable-wallet.md"
-    }
-  },
-  {
-    "en": {
-      "title": "How does Unstoppable Wallet work?",
+      "title": "How does CoinHub Wallet work?",
       "markdown": "faq/android/en/how-does-unstoppable-wallet-work.md"
     },
     "ru": {
-      "title": "Как работает Unstoppable кошелек?",
+      "title": "Как работает CoinHub кошелек?",
       "markdown": "faq/android/ru/how-does-unstoppable-wallet-work.md"
     },
     "de": {
-      "title": "Wie funktioniert Unstoppable Wallet?",
+      "title": "Wie funktioniert CoinHub Wallet?",
       "markdown": "faq/android/de/how-does-unstoppable-wallet-work.md"
     },
     "es": {
-      "title": "¿Cómo funciona la Unstoppable Wallet?",
+      "title": "¿Cómo funciona la CoinHub Wallet?",
       "markdown": "faq/android/es/how-does-unstoppable-wallet-work.md"
     },
     "fr": {
-      "title": "Comment fonctionne le portefeuille Unstoppable?",
+      "title": "Comment fonctionne le portefeuille CoinHub?",
       "markdown": "faq/android/fr/how-does-unstoppable-wallet-work.md"
     },
     "tr": {
-      "title": "Unstoppable Wallet nasıl çalışır?",
+      "title": "CoinHub Wallet nasıl çalışır?",
       "markdown": "faq/android/tr/how-does-unstoppable-wallet-work.md"
     },
     "zh": {
-      "title": "How does Unstoppable Wallet work?",
+      "title": "How does CoinHub Wallet work?",
       "markdown": "faq/android/zh/how-does-unstoppable-wallet-work.md"
     },
     "ko": {
-      "title": "Unstoppable Wallet은 어떻게 작동하나요?",
+      "title": "CoinHub Wallet은 어떻게 작동하나요?",
       "markdown": "faq/android/ko/how-does-unstoppable-wallet-work.md"
     },
     "fa": {
-      "title": "How does Unstoppable Wallet work?",
+      "title": "How does CoinHub Wallet work?",
       "markdown": "faq/android/fa/how-does-unstoppable-wallet-work.md"
     }
   },
@@ -305,39 +267,39 @@
   },
   {
     "en": {
-      "title": "Does Unstoppable have fees to send or receive?",
+      "title": "Does CoinHub have fees to send or receive?",
       "markdown": "faq/android/en/does-unstoppable-have-fees-to-send-or-receive.md"
     },
     "ru": {
-      "title": "Берет ли Unstoppable плату за отправку или получение?",
+      "title": "Берет ли CoinHub плату за отправку или получение?",
       "markdown": "faq/android/ru/does-unstoppable-have-fees-to-send-or-receive.md"
     },
     "de": {
-      "title": "Hat Unstoppable Gebühren für das Versenden oder Empfangen?",
+      "title": "Hat CoinHub Gebühren für das Versenden oder Empfangen?",
       "markdown": "faq/android/de/does-unstoppable-have-fees-to-send-or-receive.md"
     },
     "es": {
-      "title": "¿Unstoppable tiene tarifas al enviar o recibir?",
+      "title": "¿CoinHub tiene tarifas al enviar o recibir?",
       "markdown": "faq/android/es/does-unstoppable-have-fees-to-send-or-receive.md"
     },
     "fr": {
-      "title": "Y a-t-il des frais pour envoyer ou recevoir avec Unstoppable?",
+      "title": "Y a-t-il des frais pour envoyer ou recevoir avec CoinHub?",
       "markdown": "faq/android/fr/does-unstoppable-have-fees-to-send-or-receive.md"
     },
     "tr": {
-      "title": "Unstoppable gönderme veya alma için ücret alıyor mu?",
+      "title": "CoinHub gönderme veya alma için ücret alıyor mu?",
       "markdown": "faq/android/tr/does-unstoppable-have-fees-to-send-or-receive.md"
     },
     "zh": {
-      "title": "Does Unstoppable have fees to send or receive?",
+      "title": "Does CoinHub have fees to send or receive?",
       "markdown": "faq/android/zh/does-unstoppable-have-fees-to-send-or-receive.md"
     },
     "ko": {
-      "title": "Unstoppable에는 전송 및 수령 수수료가 있나요?",
+      "title": "CoinHub에는 전송 및 수령 수수료가 있나요?",
       "markdown": "faq/android/ko/does-unstoppable-have-fees-to-send-or-receive.md"
     },
     "fa": {
-      "title": "Does Unstoppable have fees to send or receive?",
+      "title": "Does CoinHub have fees to send or receive?",
       "markdown": "faq/android/fa/does-unstoppable-have-fees-to-send-or-receive.md"
     }
   },
@@ -495,15 +457,15 @@
   },
   {
     "en": {
-      "title": "How do I update Unstoppable?",
+      "title": "How do I update CoinHub?",
       "markdown": "faq/android/en/how-do-i-update-unstoppable.md"
     },
     "ru": {
-      "title": "Как обновить Unstoppable?",
+      "title": "Как обновить CoinHub?",
       "markdown": "faq/android/ru/how-do-i-update-unstoppable.md"
     },
     "de": {
-      "title": "Wie aktualisiere ich Unstoppable?",
+      "title": "Wie aktualisiere ich CoinHub?",
       "markdown": "faq/android/de/how-do-i-update-unstoppable.md"
     },
     "es": {
@@ -511,7 +473,7 @@
       "markdown": "faq/android/es/how-do-i-update-unstoppable.md"
     },
     "fr": {
-      "title": "Comment puis-je actualiser Unstoppable?",
+      "title": "Comment puis-je actualiser CoinHub?",
       "markdown": "faq/android/fr/how-do-i-update-unstoppable.md"
     },
     "tr": {
@@ -519,15 +481,15 @@
       "markdown": "faq/android/tr/how-do-i-update-unstoppable.md"
     },
     "zh": {
-      "title": "How do I update Unstoppable?",
+      "title": "How do I update CoinHub?",
       "markdown": "faq/android/zh/how-do-i-update-unstoppable.md"
     },
     "ko": {
-      "title": "Unstoppable을 업데이트하려면 어떻게 해야 하나요?",
+      "title": "CoinHub을 업데이트하려면 어떻게 해야 하나요?",
       "markdown": "faq/android/ko/how-do-i-update-unstoppable.md"
     },
     "fa": {
-      "title": "How do I update Unstoppable?",
+      "title": "How do I update CoinHub?",
       "markdown": "faq/android/fa/how-do-i-update-unstoppable.md"
     }
   }
