@@ -1,8 +1,6 @@
-# Why does the 'send' button for the coin appear disabled?
+# Why 'send' button for the coin appears disabled?
 
-In certain cases, the 'Send' button may appear disabled (dimmed) in the interface.
+There are cases when the 'Send' buttons appears disabled in the interface:
 
-This happens when:
-
-- the wallet app is synchronizing itself with the blockchain.
-- there is no active internet connection.
+- when the wallet app is synchronizing itself with the blockchain.
+- when there is no internet connection

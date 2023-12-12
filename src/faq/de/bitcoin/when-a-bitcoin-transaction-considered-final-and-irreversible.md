@@ -7,6 +7,6 @@ Without going too technical it's sufficient to know that in order for a transact
 The basic rule to follow when contemplating transaction finality can be as follows:
 
 - for smaller payments it's safe to consider the transaction final as soon as it's included in the blockchain.
-- for mid-sized payments (say above $10K) it's recommended to wait at least 3 blocks. Unstoppable wallet will display the transaction as final after 3 blocks.
+- for mid-sized payments (say above $10K) it's recommended to wait at least 3 blocks. CoinDex wallet will display the transaction as final after 3 blocks.
 - for really large payments it's recommended to wait 6 blocks, although you can be fairly certain already after 3 blocks have passed.
 

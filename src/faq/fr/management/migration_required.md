@@ -1,11 +1,15 @@
-# MIGRATION REQUISE
+# MIGRATION REQUIRED
 
-Il semble que ce portefeuille ait été créé de manière non-standard. Bien que le portefeuille fonctionne dans l'application Unstoppable et soit sécurisé, il ne répond pas aux normes et n'est pas compatible avec d'autres applications de portefeuille conformes aux normes.
+MIGRATION REQUIRED
 
-En conséquence, il ne sera pas possible de restaurer l'accès à ce portefeuille dans d'autres applications de portefeuille. Nous vous conseillons de créer un nouveau portefeuille en utilisant une liste de mots anglais et de transférer tous les fonds vers ce nouveau portefeuille.
+It looks like this wallet was created in a non-standard manner. While the wallet works in the CoinDex app and is secure it is not a standard-compliant wallet and is not compatible with other standard-compliant wallet apps.
 
-- Allez dans l'onglet Paramètres
-- Sélectionnez Gérer les portefeuilles
-- Cliquez sur Créer
-- 
-Veillez à effectuer une sauvegarde du portefeuille nouvellement créé
+As a result, restoring access to this wallet in other wallet apps will not be possible. It's  recommended to set up a new wallet using an English words list and transfer all funds to that new wallet.
+
+1. Go to the Settings tab
+2. Select Manage Wallets
+3. Click on Create button
+4. Make sure to Backup the newly created wallet
+5. Transfer funds from the old wallet to the new wallet
+
+Until you have completed the process make sure to keep a backup of your old wallet as well.

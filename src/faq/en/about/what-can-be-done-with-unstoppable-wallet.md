@@ -1,10 +1,10 @@
-# What can be done with Unstoppable Wallet?
+# What can be done with CoinDex Wallet?
 
-- Send and receive cryptocurrency anywhere, anytime.
-- Swap one cryptocurrency to another without limits.
-- Access DeFi services i.e. swapping, lending, borrowing, staking, etc.
-- Create an unlimited number of cryptocurrency wallets.
-- Store multiple cryptocurrencies in each wallet.
-- Import/export wallets from/to other non-custodial wallet apps.
-- Monitor and analyze cryptocurrency markets.
-- Learn about cryptocurrency and DeFi.
+- Learn about cryptocurrency and DeFi
+- Create unlimited number of cryptocurrency wallets/portfolios
+- Store and manage multiple cryptocurrencies in each wallet
+- Import wallets from other crypto wallet apps
+- Send and receive cryptocurrency anywhere, at anytime
+- Swap one cryptocurrency to another without limitations
+- Access DeFi services (trade, lend, borrow, yield etc)
+- Monitor cryptocurrency markets

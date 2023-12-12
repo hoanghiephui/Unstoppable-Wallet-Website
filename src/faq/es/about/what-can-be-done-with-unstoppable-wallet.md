@@ -1,4 +1,4 @@
-# What can be done with Unstoppable Wallet?
+# What can be done with CoinDex Wallet?
 
 - Learn about cryptocurrency and DeFi
 - Create unlimited number of cryptocurrency wallets/portfolios

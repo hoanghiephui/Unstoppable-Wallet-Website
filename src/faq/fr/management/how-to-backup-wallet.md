@@ -1,6 +1,6 @@
 # How to backup wallet(s)?
 
-Wallet backup is one of the most important steps. Make sure you follow instructions and complete backup steps for each wallet in the Unstoppable app.
+Wallet backup is one of the most important steps. Make sure you follow instructions and complete backup steps for each wallet in the CoinDex app.
 
 - Go to Settings >> Manage Wallets section of the app.
 - To access wallet settings, click on the 'more' button next to the wallet you need to backup. All wallets where backup procedure has not been completed have a red alert icon.

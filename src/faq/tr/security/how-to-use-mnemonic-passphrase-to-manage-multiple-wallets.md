@@ -4,7 +4,7 @@ Mnemonic passphrase adds an additional security layer to the wallet by making it
 
 The fact that mnemonic passphrases can take an arbitrary form enables various creative and convenient ways to manage multiple cryptocurrency wallets where each wallet has the same mnemonic phrase but different mnemonic passphrases.
 
-In Unstoppable wallet, users may create a new wallet via 'restore' wallet option and use mnemonic phrases belonging to another wallet but with a new passphrase. The process can be repeated for any number of wallets.
+In CoinDex wallet, users may create a new wallet via 'restore' wallet option and use mnemonic phrases belonging to another wallet but with a new passphrase. The process can be repeated for any number of wallets.
 
 As a result, the user ends up with multiple wallets sharing the same mnemonic phrase but different passphrases.
 

@@ -1,6 +1,6 @@
-# Who is building Unstoppable Wallet?
+# Who is building CoinDex Wallet?
 
-Unstoppable started in 2017 and is being built by Horizontal Systems.
+CoinDex started in 2017 and is being built by Horizontal Systems.
 
 - We are a 15-people engineering and creative team with an inherent passion for borderless fintech and DAOs (Decentralized Autonomous Organizations).
 

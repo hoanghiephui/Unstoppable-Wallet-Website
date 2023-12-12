@@ -1,6 +1,6 @@
-# What should someone do before using Unstoppable?
+# What should someone do before using CoinDex?
 
-Before doing anything on Unstoppable you're strongly encouraged to go over the Academy section and get familiar with essential aspects of cryptocurrency and DeFi ecosystem.
+Before doing anything on CoinDex you're strongly encouraged to go over the Academy section and get familiar with essential aspects of cryptocurrency and DeFi ecosystem.
 
 The Academy was built to educate users looking to decentralize existing capital by investing into cryptocurrencies and the DeFi ecosystem. It covers all important aspects, from security fundamentals to DeFi opportunities.
 
@@ -11,4 +11,4 @@ The Academy goes well beyond covering basics and aims to:
 
 The Academy is accessible both from in-app as well as externally on https://litrex.academy.
 
-Apart from Academy, users are recommended to go over Unstoppable terms (Settings > About section) and make sure they understand what Unstoppable wallet is and risks involved in using the app.
+Apart from Academy, users are recommended to go over CoinDex terms (Settings > About section) and make sure they understand what CoinDex wallet is and risks involved in using the app.

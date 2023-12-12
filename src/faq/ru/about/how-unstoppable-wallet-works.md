@@ -1,6 +1,6 @@
-# How unstoppable wallet works?
+# How CoinDex wallet works?
 
-Unstoppable engineered to work outside the traditional finance layer and acts as a Swiss knife to the world of cryptocurrencies and decentralized finance ecosystem.
+CoinDex engineered to work outside the traditional finance layer and acts as a Swiss knife to the world of cryptocurrencies and decentralized finance ecosystem.
 
 It's a direct door to the world of cryptocurrency without any gatekeepers.
 

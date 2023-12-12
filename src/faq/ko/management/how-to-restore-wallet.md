@@ -1,6 +1,6 @@
 # How to restore wallet(s)
 
-Unstoppable provides easy wallet restore functionality for any standard compliant wallet. Users are able to restore wallets that were created in Unstoppable as well as ones created in other non-custodial wallet apps.
+CoinDex provides easy wallet restore functionality for any standard compliant wallet. Users are able to restore wallets that were created in CoinDex as well as ones created in other non-custodial wallet apps.
 
 To restore wallet:
 - Go to Settings >> Manage Wallets section of the app.
@@ -13,4 +13,4 @@ After selecting currencies, click on the Restore button and wait for the wallet 
 Additional points to keep in mind:
 - For Bitcoin, Bitcoin Cash and Litecoin, the user is also expected to indicate the address type for the selected coin. More information about these are available in the Bitcoin section below.
 - When restoring Zcash wallets, users can optionally indicate the wallet birthday height parameter and significantly speed up the wallet synchronization process with the blockchain.
-- Privacy sensitive power users should be also aware that by default Unstoppable synchronizes wallets being restored via 3rd party API server. This was done only once during the wallet restore. While this method is significantly faster it's generally considered less private. Those looking to synchronize the wallet with the blockchain in a decentralized manner can choose to restore 'via Blockchain' which operates in a more private manner but is likely to take a few hours.
+- Privacy sensitive power users should be also aware that by default CoinDex synchronizes wallets being restored via 3rd party API server. This was done only once during the wallet restore. While this method is significantly faster it's generally considered less private. Those looking to synchronize the wallet with the blockchain in a decentralized manner can choose to restore 'via Blockchain' which operates in a more private manner but is likely to take a few hours.

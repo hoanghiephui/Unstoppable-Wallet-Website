@@ -2,7 +2,7 @@
 
 Bitcoin has three commonly-used address formats that can be used to receive Bitcoin payments. Usually cryptocurrency wallets operate with just one format with some supporting usage of multiple formats.
 
-Unstoppable supports all three address formats and allows users to have separate Bitcoin balances (and transactions) for each of the three formats within a single multi-coin wallet. So, any wallet created in Unstoppable can potentially have three Bitcoin wallets operating as different cryptocurrencies along with other cryptocurrencies in the wallet.
+CoinDex supports all three address formats and allows users to have separate Bitcoin balances (and transactions) for each of the three formats within a single multi-coin wallet. So, any wallet created in CoinDex can potentially have three Bitcoin wallets operating as different cryptocurrencies along with other cryptocurrencies in the wallet.
 
 The various formats emerged as a result of more and more people transacting on the Bitcoin network. The newer address formats were introduced to make transaction sizes smaller and thus allow the network to process more transactions in each block.
 
@@ -29,4 +29,4 @@ An easy way to find out which format the wallet supports is to open the wallet a
 
 On a practical level, apart from the difference in transaction fees there is just one thing to keep in mind. Knowing the address format is also needed when restoring a Bitcoin wallet in some wallet app.
 
-Unstoppable wallet is able to both create and restore wallets operating in any of the three available address formats.
+CoinDex wallet is able to both create and restore wallets operating in any of the three available address formats.

@@ -1,16 +1,16 @@
-# How does Unstoppable make money?
+# How CoinDex makes money?
 
-Unstoppable is a free to use instrument that keeps all of its fundamental features free.
+CoinDex is a free to use instrument that keeps all of its fundamental features free.
 
-We are a self-funded group and not dependent on any funding from external entities. Our former ventures allow us to stay independent, creative and experimental, while building our preferred asset management instrument for the decentralized fintech.
+We are a self funded group and not dependent on funding from external entities. Our former ventures/investments allow us to stay independent, creative and experimental.
 
-As per our roadmap, starting from version 0.24 - 0.25 , the wallet app is going to start integrating premium features for power users, i.e:
+As per our roadmap, starting from version 0.24 , the wallet app going to start integrating premium features for power users i.e:
 
 - advanced on-chain analytics
 - advanced alerting features
-- VIP support over private chats
-- advanced DeFi yield generation tools
+- VIP level support over direct chat
+- blockchain tech consulting
 
-The features above are already in the implementation stage, and are designed to enable the Unstoppable team to monetize itself and financially operate in DAO format moving forward.
+The features above are already in the implementation stage and designed to enable the CoinDex team to monetize itself and financially operate in DAO format moving forward.
 
-Premium wallet features are expected to be available only to those holding special Unstoppable wallet tokens.
+Premium wallet features are expected to be available only to those holding CoinDex Tokens on the wallet balance.

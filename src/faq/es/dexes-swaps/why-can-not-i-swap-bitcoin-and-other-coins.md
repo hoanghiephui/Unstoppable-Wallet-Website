@@ -2,5 +2,5 @@
 
 Currently swap actions are limited to assets residing on Ethereum and Binance Smart Chain blockchains.
 
-Unstoppable aims to add decentralized swap capabilities for Bitcoin, Zcash and some other blockchains in the near future.
+CoinDex aims to add decentralized swap capabilities for Bitcoin, Zcash and some other blockchains in the near future.
 

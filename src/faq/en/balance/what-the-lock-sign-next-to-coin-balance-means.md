@@ -1,6 +1,7 @@
-# What a lock icon on coin balance means?
+# What the lock sign next to coin balance means?
 
-In some cases Unstoppable displays a lock icon below the balance amount for the coin. This happens when the wallet app is not able to spend the entire balance for a given coin.
+In some cases CoinDex displays a lock icon below the balance amount for the coin. This happens when the wallet app is not able to spend the entire balance for a given coin.
+Such cases include:
 
-For instance, when a wallet receives a time-locked Bitcoin transaction that can not be spent until a certain date in the future. In such a case, Unstoppable should identify such transactions and show part of the coin balance with the lock icon.
-
+- when someone sends you time-locked Bitcoins which can not be spent until a certain date in the future. CoinDex and some other smart Bitcoin wallets provide such features.
+- when a certain amount of time needs to pass before the recently received amount becomes spendable. This usually varies between a few minutes to an hour, depending on the cryptocurrency.

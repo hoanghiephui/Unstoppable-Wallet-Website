@@ -1,4 +1,5 @@
-# How do you hide/show the wallet balance?
+# How to hide/show wallet balance?
 
-To hide or unhide total wallet balance and individual coin balances click on the total balance value on the Balance tab.
+To hide/unhide total wallet balance as well as individual coin balances click on the total balance value on the Balance tab.
+
 

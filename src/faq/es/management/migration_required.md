@@ -1,13 +1,15 @@
-# MIGRACIÓN REQUERIDA
+# MIGRATION REQUIRED
 
-Parece que este monedero se creó de una manera no estándar. Si bien el monedero funciona en la aplicación Unstoppable y es seguro, no es un monedero compatible con los estándares y es incompatible con otras aplicaciones de monederos compatibles con los estándares.
+MIGRATION REQUIRED
 
-Como resultado, no será posible restaurar el acceso a este monedero en otras aplicaciones. Se recomienda configurar un nuevo monedero utilizando una lista de palabras en inglés y transferir todos los fondos a ese nuevo monedero.
+It looks like this wallet was created in a non-standard manner. While the wallet works in the CoinDex app and is secure it is not a standard-compliant wallet and is not compatible with other standard-compliant wallet apps.
 
-- Ve a la pestaña de Configuración
-- Selecciona Administrar monederos
-- Haz clic en el botón Crear
-- Asegúrate de hacer una copia de seguridad del monedero recién creado
-- Transfiere fondos del antiguo monedero al nuevo monedero
+As a result, restoring access to this wallet in other wallet apps will not be possible. It's  recommended to set up a new wallet using an English words list and transfer all funds to that new wallet.
 
-Hasta que hayas completado el proceso, asegúrate de mantener también una copia de seguridad de tu anterior monedero.
+1. Go to the Settings tab
+2. Select Manage Wallets
+3. Click on Create button
+4. Make sure to Backup the newly created wallet
+5. Transfer funds from the old wallet to the new wallet
+
+Until you have completed the process make sure to keep a backup of your old wallet as well.

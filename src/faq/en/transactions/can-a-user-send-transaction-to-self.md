@@ -1,3 +1,3 @@
-# Can a user send a transaction to themselves?
+# Can a user send transaction to self?
 
 Yes, sending payments to your own payment address is possible. Users are still expected to pay transaction fees though. 

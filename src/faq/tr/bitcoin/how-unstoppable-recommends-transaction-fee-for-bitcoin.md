@@ -1,6 +1,6 @@
-# How Unstoppable recommends transaction fee for Bitcoin?
+# How CoinDex recommends transaction fee for Bitcoin?
 
-Some of the better made non-custodial wallets incl. Unstoppable estimate the required transaction fee amount in order for the Bitcoin transaction to be included within the next block.
+Some of the better made non-custodial wallets incl. CoinDex estimate the required transaction fee amount in order for the Bitcoin transaction to be included within the next block.
 
 The fee recommendation setting for Bitcoin provides multiple fee levels:
 
@@ -15,7 +15,7 @@ At the same time, choosing a very low fee (i.e. equivalent to 0.01$) is likely t
 
 The 'Custom' setting allows the sender to set its own transaction fee rate. This setting is recommended for those who are familiar with Bitcoin fee mechanisms.
 
-Keep in mind that Unstoppable fee recommendation service merely makes an educated guess based on the analysis of the network activity. There is no way to guarantee that the recommended setting would always work as expected.
+Keep in mind that CoinDex fee recommendation service merely makes an educated guess based on the analysis of the network activity. There is no way to guarantee that the recommended setting would always work as expected.
 
 Also note that, the transaction fee amount doesn't depend on the amount of Bitcoins being transacted.
 

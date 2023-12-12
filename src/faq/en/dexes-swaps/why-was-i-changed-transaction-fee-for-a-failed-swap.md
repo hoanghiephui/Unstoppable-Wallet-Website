@@ -1,13 +1,13 @@
-# Why was I charged a transaction fee for a failed swap?
+# Why was I charged transaction fee for a failed swap?
 
-A transaction on the Ethereum blockchain may be completed and yet fail to execute all the steps it was supposed to do.
+A transaction on Ethereum blockchain may be completed and yet fail to execute all steps it was supposed to do. When this happens the user still pays the transaction fee to the network.
 
-The user still pays the transaction fee to the network when that happens. Users are expected to pay for the computation steps of a failed transaction, just like for a successful one. Users sending transactions are paying for the computation, regardless of whether their transaction succeeds or fails.
+Users sending transactions are paying for the computation, regardless of whether their transaction succeeds or fails. Users are expected to pay for that computation, just like for a successful transaction.
 
-There are many potential reasons when a swap transaction can fail:
+When it comes to swap transactions there are many potential reasons where this can happen.
+- The amount of time between transaction submission to the network and its confirmation exceeds the validity period set by the user for the swap. Likely to happen when the network is congested and/or the user set fee for transaction is insufficient for processing within the required time frame (validity period).
+- Low price slippage setting
+- Low transaction fee setting. Setting a lower transaction fee is likely to result in the transaction remaining pending longer than its validity period setting.
 
-- **The time duration between the transaction submission to the network and its confirmation time.** The transaction will fail if that time exceeds the validity period set by the user for the swap. This is likely to happen when the network is congested and/or if the user's set fee for the transaction is insufficient for processing within the required time frame.
+Failed transactions are still added to the blockchain. The transaction fees are still paid to miners for executing computational steps for it. Network miners have to validate and spend computational power on every transaction without knowing in advance whether it's going to fail or not.
 
-- **Very low price slippage setting.** If the user indicates a low acceptable price slippage level then there is an increased chance of a DEX being unable to execute the swap of tokens within the desired price levels.
-
-- **Low transaction fee setting**. Setting a lower transaction fee is likely to result in the transaction remaining pending longer than its validity period set for a trade.

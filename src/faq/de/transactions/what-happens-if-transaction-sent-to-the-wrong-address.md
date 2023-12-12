@@ -4,6 +4,6 @@ Blockchain transactions are irreversible. If someone mistakenly sends payment to
 
 While the payment is still pending and yet to be added to the blockchain there are potential ways to cancel it and the means to do so for Bitcoin and Ethereum are explained in sections below.
 
-Unstoppable wallet can validate destination addresses and warn sender if the entered destination address doesn't match the typical format for payment addresses. For instance, the wallet won't let you send Bitcoin to an Ethereum address and so on.
+CoinDex wallet can validate destination addresses and warn sender if the entered destination address doesn't match the typical format for payment addresses. For instance, the wallet won't let you send Bitcoin to an Ethereum address and so on.
 
 

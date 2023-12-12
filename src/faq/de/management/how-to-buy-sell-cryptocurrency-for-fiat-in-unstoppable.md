@@ -1,6 +1,6 @@
-# How to buy/sell cryptocurrency for fiat in Unstoppable?
+# How to buy/sell cryptocurrency for fiat in CoinDex?
 
-Unstoppable doesn't support buying or selling cryptocurrency for fiat currency (USD, EUR etc) either directly or via 3rd party partners.
+CoinDex doesn't support buying or selling cryptocurrency for fiat currency (USD, EUR etc) either directly or via 3rd party partners.
 
 While some users have repeatedly requested features like buying crypto through credit card or bank deposits etc there is no way to integrate such capabilities without making the app significantly less private or without enabling this feature for some and excluding the others.
 

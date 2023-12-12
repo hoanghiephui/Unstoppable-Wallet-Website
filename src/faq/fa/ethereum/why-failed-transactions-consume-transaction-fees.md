@@ -8,5 +8,5 @@ Failed transactions still added to the blockchain. The transaction fees are stil
 
 Therefore, users sending transactions are paying for the computation, regardless of whether their transaction succeeds or fails. Users are expected to pay for that computation, just like for a successful transaction.
 
-Transaction fees are paid to the network directly and do not pass through or relate to Unstoppable in any way.
+Transaction fees are paid to the network directly and do not pass through or relate to CoinDex in any way.
 

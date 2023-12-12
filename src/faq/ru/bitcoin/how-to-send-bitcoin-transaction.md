@@ -12,4 +12,4 @@ The full process looks as follows:
 6. Reviews and confirms transaction.
 7. Monitors transaction status from Transactions tab.
 
-When sending Bitcoin via Unstoppable the transaction goes directly to the blockchain without passing through intermediaries. Most cryptocurrency wallets unable to communicate with the Bitcoin blockchain directly and therefore have to route your transactions through intermediary services.
+When sending Bitcoin via CoinDex the transaction goes directly to the blockchain without passing through intermediaries. Most cryptocurrency wallets unable to communicate with the Bitcoin blockchain directly and therefore have to route your transactions through intermediary services.

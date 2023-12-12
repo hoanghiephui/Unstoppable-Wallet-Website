@@ -1,6 +1,6 @@
 # What are private keys, mnemonic phrase, wallet seed etc ?
 
-Usually following terms are used interchangeably in cryptocurrency context. All these terms typically refer to information that is used to control funds on the non-custodial cryptocurrency wallets like Unstoppable.
+Usually following terms are used interchangeably in cryptocurrency context. All these terms typically refer to information that is used to control funds on the non-custodial cryptocurrency wallets like CoinDex.
  
 For simplicity, users may think of them as the username/password needed to access wallets they are associated with. Every non-custodial cryptocurrency wallet is expected to provide users with a private key that's not stored anywhere online or shared by anyone.
 

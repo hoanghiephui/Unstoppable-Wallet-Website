@@ -1,4 +1,4 @@
-# What is Unstoppable Wallet?
+# What is CoinDex Wallet?
 
 - A **non-custodial** wallet where only the user holds the keys controlling cryptocurrency.
 - A **decentralized** wallet. No accounts, no emails, no identity checks (KYC, AML)
