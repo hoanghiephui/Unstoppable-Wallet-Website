@@ -1,22 +1,22 @@
-# Innovative DeFi Features
+# Инновационные функции DeFi
 
-**Flash Loans**
+**Флеш-займы**
 
-Flash loans represent a unique DeFi innovation impossible in traditional finance. They allow users to borrow any amount without collateral, provided the loan is repaid within the same transaction block. If the loan isn't repaid, the entire transaction reverts as if it never happened.
+Флеш-займы представляют уникальную инновацию DeFi, невозможную в традиционных финансах. Они позволяют пользователям занимать любую сумму без обеспечения при условии, что заем будет возвращен в рамках того же блока транзакций. Если заем не возвращается, вся транзакция откатывается, как будто она никогда не происходила.
 
-Think of it like borrowing money to buy something and immediately reselling it for profit – but everything happens instantaneously. For example, a user might:
+Представьте это как заем денег для покупки чего-то с немедленной перепродажей для получения прибыли – но все происходит мгновенно. Например, пользователь может:
 
-1. Borrow 1 million USDT
-2. Use it for arbitrage trading
-3. Return the loan plus fees All in one atomic transaction.
+1. Занять 1 миллион USDT
+2. Использовать их для арбитражной торговли
+3. Вернуть заем плюс комиссии – все в одной атомарной транзакции.
 
-**DeFi Aggregators**
+**DeFi-агрегаторы**
 
-DeFi aggregators leverage the composable nature of smart contracts to optimize user transactions. For instance, when trading tokens, 1inch DEX aggregator utilises its smart contracts to:
+DeFi-агрегаторы используют составную природу смарт-контрактов для оптимизации пользовательских транзакций. Например, при обмене токенов агрегатор децентрализованных бирж 1inch использует свои смарт-контракты для:
 
-- Check prices across multiple DEXes
-- Split the order for best execution
-- Execute trades across different platforms
-- Return the optimal result to the user
+- Проверки цен на нескольких биржах
+- Разделения ордера для лучшего исполнения
+- Выполнения сделок на разных платформах
+- Возврата пользователю оптимального результата
 
-This interoperability between different DeFi protocols showcases how DeFi services can build upon each other to enhance user outcomes.
+Эта взаимосвязанность между различными DeFi-протоколами демонстрирует, как сервисы DeFi могут надстраиваться друг над другом для улучшения результатов пользователей.

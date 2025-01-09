@@ -1,15 +1,15 @@
-# Getting Started with DeFi
+# С чего начать в DeFi
 
-Before diving into DeFi services, you need two fundamental components: a non-custodial wallet and some native cryptocurrency of your chosen blockchain.
+Перед погружением в DeFi-сервисы вам потребуются два фундаментальных компонента: некастодиальный кошелек и немного родной криптовалюты выбранного вами блокчейна.
 
-Your choice of wallet will largely determine which DeFi services you can access. Non-custodial wallets give you complete control over your funds and the ability to interact with DeFi protocols.
+Ваш выбор кошелька во многом определит, к каким DeFi-сервисам вы сможете получить доступ. Некастодиальные кошельки дают полный контроль над вашими средствами и возможность взаимодействия с DeFi-протоколами.
 
-Popular wallet options include:
+Популярные варианты кошельков включают:
 
-- Mobile wallets: Unstoppable offers comprehensive support for multiple blockchains and DeFi platforms
-- Browser wallets: MetaMask dominates Ethereum and compatible chains
-- Specialized wallets: Phantom serves as the primary wallet for Solana DeFi users
+- Мобильные кошельки: Unstoppable предлагает комплексную поддержку нескольких блокчейнов и DeFi-платформ
+- Браузерные кошельки: MetaMask доминирует в Ethereum и совместимых цепях
+- Специализированные кошельки: Phantom служит основным кошельком для пользователей Solana DeFi
 
-For most users, a versatile wallet like Unstoppable will cover the majority of DeFi use cases, but your choice should align with your intended blockchain ecosystem.
+Для большинства пользователей универсальный кошелек вроде Unstoppable покроет большинство случаев использования DeFi, но ваш выбор должен соответствовать планируемой блокчейн-экосистеме.
 
-Each blockchain requires its native cryptocurrency to pay for DeFi transactions. You'll need ETH for Ethereum transactions, SOL for Solana, or AVAX for Avalanche. Every DeFi interaction requires transaction fees, so maintaining adequate native currency is essential for continuous operation.
+Каждый блокчейн требует собственной криптовалюты для оплаты DeFi-транзакций. Вам понадобится ETH для транзакций в Ethereum, SOL для Solana или AVAX для Avalanche. Каждое взаимодействие с DeFi требует комиссии за транзакцию, поэтому поддержание достаточного количества родной валюты существенно для бесперебойной работы.

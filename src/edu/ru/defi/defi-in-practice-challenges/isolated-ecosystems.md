@@ -1,7 +1,7 @@
-# Isolated Ecosystems
+# Изолированные экосистемы
 
-This multi-chain development, while fostering innovation, creates several practical challenges for users. The first challenge is similar to needing different bank accounts in different countries – each blockchain typically requires its own wallet. While some users prefer specialized wallets like Phantom for Solana or MetaMask for Ethereum, universal wallets like Unstoppable are emerging to simplify this experience.
+Это мультицепочечное развитие, стимулируя инновации, создает несколько практических проблем для пользователей. Первый вызов схож с необходимостью иметь разные банковские счета в разных странах – каждый блокчейн обычно требует собственного кошелька. Пока некоторые пользователи предпочитают специализированные кошельки вроде Phantom для Solana или MetaMask для Ethereum, на рынке появляются универсальные кошельки вроде Unstoppable, призванные упростить этот опыт.
 
-Transaction fees present another consideration. Just as you need local currency for expenses in different countries, each blockchain requires its native token for transactions. You'll need ETH for DeFi transactions on Ethereum, SOL for Solana operations, and AVAX for using Avalanche services.
+Транзакционные комиссии – еще одна важная деталь. Подобно тому, как в разных странах нужна местная валюта для расходов, каждый блокчейн требует собственный родной токен для транзакций. Вам понадобится ETH для DeFi-операций в Ethereum, SOL для работы в Solana и AVAX для использования сервисов Avalanche.
 
-Perhaps the most significant challenge is the scattered nature of assets and services across these platforms. Imagine having money in a bank that can't directly transfer to another bank in a different country. Similarly, if you have USDT on one blockchain (like TRON), you can't directly use it on another (like Ethereum) without first converting it through a service known as bridge or some centralized exchange.
+Пожалуй, самый значительный вызов – разрозненность активов и сервисов across этих платформ. Представьте банк, который не может напрямую перевести деньги в другой банк в другой стране. Точно так же, если у вас есть USDT в одном блокчейне (например, в TRON), вы не сможете напрямую использовать его в другом (например, в Ethereum) без предварительного конвертирования через сервис-мост или централизованную биржу.

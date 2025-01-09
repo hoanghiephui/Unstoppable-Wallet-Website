@@ -1,38 +1,38 @@
-# DeFi Security: Beyond Wallets
+# Безопасность DeFi: За пределами кошельков
 
-While securing your non-custodial wallet is essential, DeFi security requires a more comprehensive approach. The decentralized nature of these services introduces additional security considerations that users must understand and address.
+Хотя защита некастодиального кошелька существенна, безопасность DeFi требует более всеобъемлющего подхода. Децентрализованная природа этих сервисов вводит дополнительные аспекты безопасности, которые пользователи должны понимать и учитывать.
 
-### Smart Contract Risks
+### Риски смарт-контрактов
 
-Smart contracts form the foundation of DeFi services, but they can contain vulnerabilities that put user funds at risk. These vulnerabilities may be intentional or unintentional, and when exploited, they can result in significant financial losses.
+Смарт-контракты формируют основу DeFi-сервисов, но могут содержать уязвимости, которые ставят под угрозу средства пользователей. Эти уязвимости могут быть намеренными или случайными, и при их эксплуатации могут привести к значительным финансовым потерям.
 
-For example, a DEX smart contract vulnerability could allow attackers to drain the entire liquidity pool, leaving liquidity providers with nothing. This isn't just theoretical – multiple DeFi services have suffered such attacks, resulting in millions of dollars in losses.
+К примеру, уязвимость смарт-контракта DEX может позволить атакующим полностью опустошить пул ликвидности, оставив провайдеров ликвидности ни с чем. Это не просто теоретический сценарий – множество DeFi-сервисов уже пострадали от подобных атак, что привело к потере миллионов долларов.
 
-To minimize smart contract risks:
+Для минимизации рисков смарт-контрактов:
 
-- Use well-established, community-tested DeFi services
-- Look for services that have undergone security audits
-- Start with small amounts when trying new services
-- Use a separate wallet when trying a new service
+- Используйте проверенные сообществом DeFi-сервисы
+- Обращайте внимание на сервисы, прошедшие аудит безопасности
+- Начинайте с небольших сумм при изучении новых сервисов
+- Используйте отдельный кошелек при работе с новым сервисом
 
-### Phishing Threats
+### Фишинг-угрозы
 
-Phishing attacks in DeFi are particularly dangerous because transactions are irreversible. Attackers create convincing copies of legitimate DeFi websites, attempting to trick users into approving malicious transactions that steal their funds.
+Фишинг-атаки в DeFi особенно опасны из-за необратимости транзакций. Злоумышленники создают убедительные копии легитимных DeFi-сайтов, пытаясь обмануть пользователей и заставить их одобрить вредоносные транзакции для кражи средств.
 
-Essential phishing prevention practices:
+Важнейшие практики против фишинга:
 
-- Access DeFi services directly through official websites
-- Avoid clicking links from Discord, Telegram, or email
-- Double-check website URLs carefully
-- Use a separate wallet specifically for DeFi activities
+- Получайте доступ к DeFi-сервисам напрямую через официальные сайты
+- Избегайте переходов по ссылкам из Discord, Telegram или электронной почты
+- Тщательно проверяйте URL-адреса сайтов
+- Используйте отдельный кошелек специально для DeFi-активностей
 
-There were a lot of cases where Twitter accounts of popular DeFi services were hacked and promoted links meant to steal users funds.
+Было много случаев, когда Twitter-аккаунты популярных DeFi-сервисов взламывались и распространяли ссылки, предназначенные для кражи средств пользователей.
 
-### Best Practices for DeFi Security
+### Лучшие практики безопасности DeFi
 
-Create a dedicated DeFi wallet with limited funds rather than using your main storage wallet. This separation serves two purposes:
+Создайте специальный DeFi-кошелек с ограниченными средствами вместо использования основного кошелька для хранения. Это разделение служит двум целям:
 
-1. Limits potential losses if you make a mistake
-2. Keeps your main holdings secure even if you interact with a compromised service
+1. Ограничивает потенциальные потери в случае ошибки
+2. Сохраняет основные активы в безопасности даже при взаимодействии с скомпрометированным сервисом
 
-Never "experiment" with DeFi using a wallet containing substantial assets unless you're absolutely certain about the transaction's security and legitimacy.
+Никогда не "экспериментируйте" с DeFi, используя кошелек, содержащий значительные активы, если вы не абсолютно уверены в безопасности и легитимности транзакции.

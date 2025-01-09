@@ -1,11 +1,11 @@
-# Institutional DeFi
+# Институциональный DeFi
 
-As institutions enter DeFi, platforms looking to serve these clients are adapting to meet regulatory requirements. New services combine DeFi's efficiency with traditional finance's compliance:
+По мере входа институтов в DeFi платформы, нацеленные на обслуживание этих клиентов, адаптируются к нормативным требованиям. Новые сервисы объединяют эффективность DeFi с комплаенсом традиционных финансов:
 
-- KYC verification for users
-- Transaction monitoring
-- Regulatory reporting
+- KYC-верификация пользователей
+- Мониторинг транзакций
+- Регуляторная отчетность
 
-For instance, lending service Save launched a service named Arc aimed specifically at institutions. Arc is a permissioned liquidity pool specifically designed for institutions to maintain regulatory compliance in the decentralized finance (DeFi) space.
+К примеру, кредитный сервис Save запустил сервис Arc, специально ориентированный на институциональных клиентов. Arc представляет собой разрешительный пул ликвидности, специально разработанный для того, чтобы институты могли соблюдать нормативные требования в пространстве децентрализованных финансов (DeFi).
 
-These institutional adaptations show how DeFi is evolving beyond its original retail focus while maintaining its core benefits of efficiency and transparency.
+Эти институциональные адаптации показывают, как DeFi эволюционирует за пределы первоначального фокуса на розничных пользователях, при этом сохраняя свои основные преимущества – эффективность и прозрачность.

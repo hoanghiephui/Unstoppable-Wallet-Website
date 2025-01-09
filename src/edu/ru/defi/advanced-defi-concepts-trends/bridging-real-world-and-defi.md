@@ -1,23 +1,23 @@
-# Bridging Real World and DeFi
+# Мост между реальным миром и DeFi
 
-**Real-World Asset (RWA) Tokenization**
+**Токенизация реальных активов (RWA)**
 
-While stablecoins represent the first wave of bringing real-world value into DeFi, tokenization is expanding to other assets. Gold-backed tokens offer a prime example – each token represents one gram of physical gold stored in vaults.
+Если стейблкоины представляют первую волну переноса реальной стоимости в DeFi, то токенизация продолжает расширяться на другие активы. Токены, обеспеченные золотом, являются ярким примером – каждый токен представляет один грамм физического золота, хранящегося в хранилищах.
 
-This trend continues to extend to various assets:
+Этот тренд продолжает распространяться на различные активы:
 
-- Precious metals
-- Real estate
-- Commodities
-- Traditional financial instruments
+- Драгоценные металлы
+- Недвижимость
+- Сырьевые товары
+- Традиционные финансовые инструменты
 
-**Oracles in DeFi**
+**Оракулы в DeFi**
 
-Oracles solve a fundamental challenge in DeFi: accessing external data. Smart contracts can't naturally access information outside the blockchain, yet many DeFi applications require real-world data. Oracles provide this crucial link.
+Оракулы решают фундаментальную проблему в DeFi: доступ к внешним данным. Смарт-контракты не могут естественным образом получать информацию за пределами блокчейна, однако многие DeFi-приложения требуют данных из реального мира. Оракулы обеспечивают этот crucial связь.
 
-For example, some derivative token which pegged in price to a real world asset needs accurate gold prices to maintain its peg. Oracles provide this data through:
+К примеру, производный токен, привязанный к цене реального актива, нуждается в точных ценах на золото для поддержания своего паритета. Оракулы предоставляют эти данные через:
 
-- Multiple data sources
-- Decentralized verification
-- Secure transmission of data to smart contracts
-- Regular price updates
+- Множество источников данных
+- Децентрализованную верификацию
+- Безопасную передачу данных в смарт-контракты
+- Регулярные обновления цен

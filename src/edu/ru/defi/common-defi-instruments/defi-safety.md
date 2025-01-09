@@ -1,11 +1,11 @@
-## DeFi Safety
+# Безопасность DeFi
 
-Following these essential safety practices helps protect your assets:
+Соблюдение этих essential практик безопасности поможет защитить ваши активы:
 
-- Start with small amounts to learn platform mechanics
-- Maintain sufficient funds for multiple transactions
-- Verify all addresses and permissions carefully
-- Research platform-specific requirements thoroughly
-- Monitor your positions regularly
+- Начинайте с небольших сумм, чтобы изучить механику платформы
+- Поддерживайте достаточно средств для нескольких транзакций
+- Тщательно проверяйте все адреса и разрешения
+- Досконально изучайте требования каждой платформы
+- Регулярно отслеживайте свои позиции
 
-It's crucial to understand that this is only a basic list of safety measures and by no means complete. DeFi security requires proper self-education to master the subject and stay secure. The complexity of DeFi security goes well beyond simply using services like DEXes or lending platforms – it encompasses understanding smart contract risks, platform-specific vulnerabilities, market manipulation risks, and numerous other security considerations. Users should invest time in continuous learning about DeFi security practices to protect their assets effectively.
+Важно понимать, что это лишь базовый список мер безопасности и он далек от полноты. Безопасность DeFi требует серьезного самообразования для глубокого понимания и личной защиты. Сложность безопасности в DeFi выходит далеко за рамки простого использования сервисов вроде DEX или кредитных платформ – она включает понимание рисков смарт-контрактов, уязвимостей конкретных платформ, рисков манипуляции рынком и множества других security-аспектов. Пользователи должны инвестировать время в постоянное обучение практикам безопасности DeFi, чтобы эффективно защитить свои активы.
