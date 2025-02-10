@@ -1,5 +1,6 @@
 import Container from '../Container'
 import GetWalletActions from '../GetWallet/GetWalletActions'
+import Icon from '../Icon'
 
 import './Banner.scss'
 
