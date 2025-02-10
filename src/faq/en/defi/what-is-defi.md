@@ -12,7 +12,7 @@ Typically, Decentralized Finance (DeFi) refers to a category of products which p
 
 - Bitcoin provides a decentralized settlement network for value transfer. No one needs ~~a~~ permission to access and transact on the network.
 - Ethereum provides a decentralized platform that enables anyone to build cryptocurrency-powered financial services as well as make use of services built by others.
-- Non-custodial wallets like Unstoppable provide the means to store and access capital without dependence on a third party.
+- Non-custodial wallets like CoinDex provide the means to store and access capital without dependence on a third party.
 
 Today, a majority of DeFi services operate on top of the Ethereum blockchain and are commonly known as DApps.
 
