@@ -1,18 +1,18 @@
-# How to use DeFi with Unstoppable
+# How to use DeFi with CoinDex
 
 DeFi services are open to all and can be accessed by anyone with a cryptocurrency wallet.
 
 While DeFi services operate on top of a blockchain, users are generally provided with a website to interact with them. Users can log into these websites using their cryptocurrency wallets.
 
-Unstoppable is one of the few mobile-based cryptocurrency wallets that provides an ability to connect to any DeFi service built on top of Ethereum or Binance Smart Chain blockchains using an open WalletConnect protocol.
+CoinDex is one of the few mobile-based cryptocurrency wallets that provides an ability to connect to any DeFi service built on top of Ethereum or Binance Smart Chain blockchains using an open WalletConnect protocol.
 
-Take the following steps to use Unstoppable wallet with a DeFi service:
+Take the following steps to use CoinDex wallet with a DeFi service:
 
 1. Navigate to a DeFi service website and look for Connect/Login links.
 
 2. Select WalletConnect from the options. That action should open a window with a QR code.
 
-3. Open the Unstoppable wallet app and navigate to the Settings tab.
+3. Open the CoinDex wallet app and navigate to the Settings tab.
 
 4. Click on WalletConnect and then the New Session button.
 
